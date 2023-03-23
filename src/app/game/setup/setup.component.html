@@ -1,0 +1,10 @@
+<div>
+  <div class="time-button">
+     <p>Time Left : {{this.timeLeft}}s</p>
+  </div>
+
+  <div class="grid">
+    <app-card *ngFor="let card of cards; let idx=index" [card]="card" (cardClicked)="handleCardClick(idx)">
+    </app-card>
+  </div>
+</div>
