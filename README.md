@@ -3,6 +3,13 @@
 
 ![home](https://user-images.githubusercontent.com/52632884/227201336-d32982e5-79ee-4fb2-a273-b5c86361cbf7.png)
 
+This is how the game works
+
+https://user-images.githubusercontent.com/52632884/227220991-70eefda2-5ad1-43d5-b285-5d563f100b26.mp4
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
 
